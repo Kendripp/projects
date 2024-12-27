@@ -1,1 +1,1 @@
-# projects
+# Kendrick's Projects
